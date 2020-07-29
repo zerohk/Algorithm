@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex1_1_15{
     public static void main(String[] args) {
         /**
          *1.1.15 编编写一个静态方法 histogram()，接受一个整型数组 a[] 和一个整数 M 为参数
