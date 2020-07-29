@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex1_1_9 {
     public static void main(String[] args) {
         /**
          *1.1.9 编写一段代码，将一个正整数 N 用二进制表示并转换为一个 String 类型的值 s
