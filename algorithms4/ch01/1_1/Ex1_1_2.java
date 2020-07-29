@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex1_1_2 {
     public static void main(String[] args) {
        /**
         * 1.1.2给出以下表达式的类型和值
