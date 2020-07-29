@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex1_1_7_a {
     public static void main(String[] args) {
         /**
          * 1.1.7分别给出以下代码段打印出的值
