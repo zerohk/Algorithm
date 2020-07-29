@@ -26,6 +26,16 @@ public class Ex1_1_14 {
         }
         return cnt;
     }
+    
+    private static int lg(int n) {
+        int shiftRightCount = 0;
+        do {
+            n >>= 1;//n右移一位，相当于除以2
+            shiftRightCount++;
+        } while (n != 0);
+        return shiftRightCount - 1;
+    }
+    
 }
 /**
  * 1
