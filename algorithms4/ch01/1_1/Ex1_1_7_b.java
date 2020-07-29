@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex1_1_7_b {
     public static void main(String[] args) {
         // 1.1.7 b
         int sum = 0;
