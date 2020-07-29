@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex1_1_6 {
     public static void main(String[] args) {
         /**
          *1.1.6下面这段程序会打印出什么？
