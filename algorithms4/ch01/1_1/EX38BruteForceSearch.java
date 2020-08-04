@@ -2,7 +2,7 @@ import edu.princeton.cs.algs4.In;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;
 
-public class BruteForceSearch {
+public class EX38BruteForceSearch {
     public static void main(String[] args) {
         /**
          *1.1.38 根据 1.1.10.4 节给出的暴力查找法编写一个程序 BruteForceSearch，在你
