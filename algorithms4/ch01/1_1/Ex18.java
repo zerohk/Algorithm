@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1_18 {
+public class Ex18 {
     public static void main(String[] args) {
         /**
          *1.1.18 请看以下递归函数，mystery(2, 25) 和 mystery(3, 11) 的返回值是多少
