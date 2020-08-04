@@ -5,7 +5,7 @@ import edu.princeton.cs.algs4.StdOut;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Ex1_1 {
+public class Ex28 {
     public static void main(String[] args) {
         /**
          *1.1.28修改 BinarySearch 类中的 测试用例 来删去排序之后白名单中的所有重复元素。
