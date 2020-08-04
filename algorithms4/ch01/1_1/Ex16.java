@@ -1,4 +1,4 @@
-public class Ex1_1 {
+public class Ex16 {
     public static void main(String[] args) {
         /**
          *1.1.16 给出 exR1(6) 的返回值：
