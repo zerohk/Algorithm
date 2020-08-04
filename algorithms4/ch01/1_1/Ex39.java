@@ -3,7 +3,7 @@ import edu.princeton.cs.algs4.StdRandom;
 
 import java.util.Arrays;
 
-public class Ex1_1 {
+public class Ex39 {
     public static void main(String[] args) {
         /**
          *1.1.39 编写一个使用 BinarySearch 的程序，它从命令行接受一个整型参数 T，并会分别针
