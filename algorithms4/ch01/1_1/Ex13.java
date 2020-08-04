@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1_13 {
+public class Ex13 {
     public static void main(String[] args) {
         /**
          *1.1.13 编写一段代码，打印出一个 M 行 N 列的二维数组的转置（交换行和列）。
