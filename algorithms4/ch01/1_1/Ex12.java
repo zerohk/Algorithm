@@ -1,4 +1,4 @@
-public class Ex1_1_12 {
+public class Ex12 {
     public static void main(String[] args) {
         /**
          *1.1.12 以下代码段会打印出什么结果？
