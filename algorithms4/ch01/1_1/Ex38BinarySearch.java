@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Arrays;
 
-public class BinarySearch {
+public class EX38BinarySearch {
     public static int rank(int key, int[] a) {
         //数组必须是有序的
         int lo = 0;
