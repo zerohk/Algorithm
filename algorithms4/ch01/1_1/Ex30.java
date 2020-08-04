@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex30 {
     public static void main(String[] args) {
         /**
          *1.1.29 编写一段程序，创建一个 N× N 的布尔数组 a[][]。其中当 i 和 j 互质时（没有相同
