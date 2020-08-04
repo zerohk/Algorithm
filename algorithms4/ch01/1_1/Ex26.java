@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1 {
+public class Ex26 {
     public static void main(String[] args) {
         /**
          *1.1.26 假设 a、 b、 c 和 t 都是同一种原始数字类型的变量。
