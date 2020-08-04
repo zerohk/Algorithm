@@ -2,10 +2,10 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Arrays;
 
-public class Ex1_1 {
+public class Ex29 {
     public static void main(String[] args) {
         /**
-         *1.1.28为 BinarySearch 类添加一个静态方法 rank()，它接受一个键和一个整型有序数组（可
+         *1.1.29为 BinarySearch 类添加一个静态方法 rank()，它接受一个键和一个整型有序数组（可
          * 能存在重复键）作为参数并返回数组中小于该键的元素数量，以及一个类似的方法 count() 来
          * 返回数组中等于该键的元素的数量。
          * **/
