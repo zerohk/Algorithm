@@ -1,4 +1,4 @@
-public class Ex1_1_8 {
+public class Ex8 {
     public static void main(String[] args) {
         /**
          * 1.1.8下列语句会打印出什么结果？给出解释。
