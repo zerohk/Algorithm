@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Arrays;
 
-public class Ex1_1_23 {
+public class Ex23 {
     public static void main(String[] args) {
         /**
          *1.1.23 为 BinarySearch 的测试用例添加一个参数： 
