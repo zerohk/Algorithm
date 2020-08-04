@@ -1,6 +1,6 @@
 import edu.princeton.cs.algs4.StdOut;
 
-public class Ex1_1_3 {
+public class Ex3 {
     /**
      * 1.1.3
      * 编写一个程序，从命令行得到三个整数参数。
